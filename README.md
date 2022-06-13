@@ -14,11 +14,11 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://media-exp2.licdn.com/dms/image/C5603AQFtq7sVXN-Gmg/profile-displayphoto-shrink_400_400/0/1644975501344?e=1660780800&v=beta&t=Gt16bisa0rU1pqk2cQqUy6p2iV9FBtfKfLgXZSX7o8k)
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+A Scientist, Researcher, and Innovator. An effective communicator, principled leader and team player. A doctorate qualified Exercise Scientist committed to promoting active human longevity through research and program building, and using significant strategic thinking and critical analysis skills. A TEDx presenter, recreational aircraft pilot and mountain-biking leader - always searching to build common views toward positive change..
 
 
 <!-- Add link to the sections -->
